@@ -1,0 +1,43 @@
+    <style>
+
+
+body{
+    background-image: url(IT3.jpg);
+    background-size: cover;
+}
+        .calculator{
+            border-radius: 40px;
+            margin-left: 50px;
+            margin-top: 30px;
+            height: 600px;
+            width: 480px;
+            background-color:rgb(0, 0, 0);
+            padding-top: 10px;
+            padding-left: 15px;
+
+        }
+
+        .inp{
+            width: 440px;
+            border-radius: 20px;
+        }
+
+        input{
+            height: 90px;
+            width: 100px;
+            margin: 6px;
+            font-size: 40px;
+        }
+
+        #result{
+        
+            margin-top: 20px;
+            font-size: 50px;
+        }
+        #equal{
+            background-color: rgba(255, 166, 0, 0.893);
+            color: white;
+        }
+
+
+    </style>
